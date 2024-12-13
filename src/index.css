@@ -1,0 +1,13 @@
+nav {
+    height: 56px;
+    width: 100%;
+    background-color: blanchedalmond;
+}
+
+nav ul {
+    width: 100%;
+    display: flex;
+    justify-content: end;
+    gap: 48px;
+    margin-right: 21px;
+}
